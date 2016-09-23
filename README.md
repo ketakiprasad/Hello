@@ -1,2 +1,2 @@
-# Hello
-just another responcibility
+# Hello world
+Just another responcibility
